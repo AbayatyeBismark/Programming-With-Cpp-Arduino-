@@ -17,12 +17,11 @@ All the logic runs exactly once inside the `setup()` function, leaving the main 
 ## Expected Serial Monitor Output
 
 === Smart countdown Starting ===
-count : 5
-count : 4
-count : 3
-count : 2
-count : 1
-=== countdown complete ===
+     Count : 5
+     Count : 4
+     Count : 3
+     Count : 2
+     Count : 1
 
  You can test and view the live simulation of this project here: wokwi.com/makers/dan_abya
 
